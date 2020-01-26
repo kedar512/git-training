@@ -1,4 +1,4 @@
-Adding conflicting changes in Master branch
+Adding before rebase conflict changes
 
 Adding temp changes
 
