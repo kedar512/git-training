@@ -12,3 +12,5 @@ For git training
 # Test change for auto merge
 
 # Changes to test rebasing
+
+# More changes to test rebasing
