@@ -1,4 +1,4 @@
-Feature branch changes to test rebase conflict
+Adding changes in feature
 
 Adding temp changes
 
