@@ -7,3 +7,5 @@ Test git restore
 Changes for comparison
 
 New branch changes
+
+Adding stashing changes
