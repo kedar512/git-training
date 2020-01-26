@@ -6,3 +6,5 @@ For git training
 # To be in staging area
 
 # To be in unstaged area
+
+# Feature branch changes
