@@ -7,3 +7,5 @@ Test git restore
 Changes for comparison
 
 New branch changes
+
+Feature branch changes to test merge conflicts
