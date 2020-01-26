@@ -8,3 +8,5 @@ For git training
 # To be in unstaged area
 
 # Feature branch changes
+
+# Test change for auto merge
