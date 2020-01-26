@@ -5,3 +5,5 @@ Feature branch changes
 Changes to test rebasing
 
 Changes to test rebase from remote repo
+
+Changes to test stashing
