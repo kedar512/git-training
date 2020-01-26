@@ -1,4 +1,4 @@
-Master branch changes to test rebase conflict
+Adding conflicting changes in Master branch
 
 Adding temp changes
 
