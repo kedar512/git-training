@@ -1,4 +1,4 @@
-Adding changes to test rebase from remote repo
+Master: Changes to test branch merge conflict
 
 Adding temp changes
 
