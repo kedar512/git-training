@@ -1,4 +1,4 @@
-New file
+Local: Changes to test checkout command
 
 Feature branch changes
 
