@@ -1,4 +1,4 @@
-Master: Changes to test branch merge conflict
+Feature: Changes to test branch merge conflict
 
 Adding temp changes
 
