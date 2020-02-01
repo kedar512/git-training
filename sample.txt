@@ -11,3 +11,5 @@ New branch changes
 Adding stashing changes
 
 Some work is in progress
+
+Remote: Adding changes to test git fetch
