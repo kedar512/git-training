@@ -1,3 +1,8 @@
 *.orig
 bin/
 .settings/
+
+# Ingoring eclipse files
+
+.project
+.classpath
