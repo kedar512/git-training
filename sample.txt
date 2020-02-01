@@ -1,4 +1,4 @@
-Feature: Changes to test branch merge conflict
+Remote master: Changes to test pull conflict
 
 Adding temp changes
 
