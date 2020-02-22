@@ -5,4 +5,4 @@ Conflicting changes
 
 Changes to test diff command
 
-Master branch change
+Branch conflict changes
