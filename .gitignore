@@ -1,8 +1,5 @@
-*.orig
-bin/
-.settings/
+.idea
 
-# Ingoring eclipse files
+.out
 
-.project
-.classpath
+*.iml
